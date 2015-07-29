@@ -1,0 +1,24 @@
+{
+  "name": "noop-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader that does nothing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnutHelland/noop-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "noop"
+  ],
+  "author": "Knut Helland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KnutHelland/noop-loader/issues"
+  },
+  "homepage": "https://github.com/KnutHelland/noop-loader#readme"
+}
